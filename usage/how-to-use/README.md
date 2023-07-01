@@ -10,7 +10,8 @@ Just use the `TermReader` class that contains:
 
 * `Read()`
 * `Read(string)`
-* `Read(string, string, bool)`
+* `Read(string, string, bool, bool)`
+* `ReadPassword()`
 * `ReadPassword(string)`
 
 Each one of these functions creates a reader state, `TermReaderState`, that contains essential information about the current reader state, including, but not limited to:
@@ -20,7 +21,7 @@ Each one of these functions creates a reader state, `TermReaderState`, that cont
 * Current text position
 * Kill buffer
 
-Any key will append the selected characters to the current text input, and `RETURN` will accept the input. For more information about keybindings, go to the below page.
+Any key will append the selected characters to the current text input, and `RETURN` will accept the input. For more information about key bindings, go to the below page.
 
 {% content-ref url="keybindings.md" %}
 [keybindings.md](keybindings.md)
