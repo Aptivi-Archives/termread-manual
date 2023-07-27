@@ -8,6 +8,8 @@ TermRead implements the following keybindings to interact with the input:
 
 | Keybinding          | Action                                               |
 | ------------------- | ---------------------------------------------------- |
+| `ENTER`             | Accepts input                                        |
+| `Ctrl`+`C`          | Cancels reading (if `TreatCtrlCAsInput` is enabled)  |
 | `Ctrl`+`A` / `HOME` | Beginning of line                                    |
 | `Ctrl`+`E` / `END`  | End of line                                          |
 | `Ctrl`+`B` / `←`    | Backward one character                               |

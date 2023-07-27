@@ -7,6 +7,7 @@
 * [🖥 How to use](usage/how-to-use/README.md)
   * [⌨ Keybindings](usage/how-to-use/keybindings.md)
   * [🔌 Custom bindings](usage/how-to-use/custom-bindings.md)
+  * [⚙ Reader Settings](usage/how-to-use/reader-settings.md)
 * [⚒ How it works](usage/how-it-works.md)
 
 ***
