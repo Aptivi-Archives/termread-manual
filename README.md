@@ -4,6 +4,10 @@ description: Welcome to TermRead!
 
 # 👋 Welcome!
 
+{% hint style="info" %}
+TermRead is being replaced by Terminaux. We recommend that your new projects use Terminaux. The migration guide will be available under the Terminaux manual as soon as it's released.
+{% endhint %}
+
 Welcome to TermRead! It's a next-generation console reader that allows you to flexibly write your input to the console without any limitations.
 
 To use this library, go to any page in the left side of the screen.
